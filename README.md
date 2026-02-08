@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Ab 👋
 
-<!--
-**dbzabhilash/dbzabhilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer turned Product Strategist | MSITM @ UT Austin
 
-Here are some ideas to get you started:
+I am a software developer with 3+ years of professional experience building scalable systems, currently bridging the gap between technical engineering and product leadership. My focus is at the intersection of **Fintech**, **Artificial Intelligence**, and **Cloud Infrastructure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍🎓 The Professional Snapshot
+* **Current Focus:** Pursuing an MS in IT Management at the **University of Texas at Austin (McCombs School of Business)**.
+* **The Backdrop:** Previously spent 3 years as a Software Engineer in Iowa, honing my skills in backend architecture and full-stack development.
+* **The Goal:** Transitioning into **Product Management** within the AI and Fintech sectors to build products that are as technically sound as they are user-centric.
+
+---
+
+### 🛠️ Technical Toolkit
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (React), SQL |
+| **Cloud & DevOps** | Google Cloud Platform (GCP), Backend APIs, System Design |
+| **AI & Data** | Machine Learning, Google Earth Engine, LLM Orchestration |
+| **Product** | ICP Validation, Roadmap Strategy, Market Analysis |
+
+---
+
+### 🏗️ What I’m Building
+* **OpenClaw:** Architecting and deploying secure, autonomous AI agents on GCP.
+* **Urban Expansion Analysis:** Using Google Earth Engine to analyze the "Path of Least Resistance" for urban growth in Austin.
+* **Wild Horizon:** Currently working on validating ICP and growth strategies for a rising Austin-based CPG startup.
+
+---
+
+### ✈️ Beyond the Terminal
+When I'm not in the IDE or analyzing product specs:
+* **Markets:** I keep a close eye on financial markets, tech stocks, and the evolving crypto landscape.
+* **Travel:** Recently explored Singapore and Thailand; always looking for the next destination.
+* **Tech:** Deeply embedded in the Apple ecosystem and always testing new AI productivity tools.
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [/in/abhilashtripathy](https://linkedin.com/in/yourlink)
+* **Portfolio:** [abhilashtripathy.weebly.com](https://abhilashtripathy.weebly.com/)
+* **Email:** [dbzabhilash@gmail.com](mailto:dbzabhilash@gmail.com)
