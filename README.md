@@ -39,6 +39,6 @@ When I'm not in the IDE or analyzing product specs:
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [/in/abhilashtripathy](https://linkedin.com/in/yourlink)
+* **LinkedIn:** [/in/abhilash-tripathy](https://www.linkedin.com/in/abhilash-tripathy/)
 * **Portfolio:** [abhilashtripathy.weebly.com](https://abhilashtripathy.weebly.com/)
 * **Email:** [dbzabhilash@gmail.com](mailto:dbzabhilash@gmail.com)
