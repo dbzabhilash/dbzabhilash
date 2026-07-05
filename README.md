@@ -24,7 +24,7 @@ I am a software developer with 3+ years of professional experience building scal
 ---
 
 ### 🏗️ What I’m Building
-* **OpenClaw:** Architecting and deploying secure, autonomous AI agents on GCP.
+* **Hermes Agent Setup:** Architecting and deploying secure, autonomous AI agents on external VPS.
 * **Urban Expansion Analysis:** Using Google Earth Engine to analyze the "Path of Least Resistance" for urban growth in Austin.
 * **Wild Horizon:** Currently working on validating ICP and growth strategies for a rising Austin-based CPG startup.
 
