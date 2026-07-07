@@ -39,5 +39,5 @@ When I'm not in the IDE or analyzing product specs:
 
 ### 📫 Connect with Me
 * **LinkedIn:** [/in/abhilash-tripathy](https://www.linkedin.com/in/abhilash-tripathy/)
-* **Portfolio:** [abhilashtripathy.weebly.com](https://abhilashtripathy.weebly.com/)
+* **Portfolio:** [dbzabhilash.github.io](https://dbzabhilash.github.io/)
 * **Email:** [dbzabhilash@gmail.com](mailto:dbzabhilash@gmail.com)
