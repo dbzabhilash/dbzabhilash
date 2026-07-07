@@ -9,8 +9,7 @@ I am a software developer with 3+ years of professional experience building scal
 ### 👨‍🎓 The Professional Snapshot
 * **Current Focus:** Pursuing an MS in IT Management at the **University of Texas at Austin (McCombs School of Business)**.
 * **The Backdrop:** Previously spent 3 years as a Software Engineer in Iowa, honing my skills in backend architecture and full-stack development.
-* **The Goal:** Transitioning into **Product Management** within the AI and Fintech sectors to build products that are as technically sound as they are user-centric.
-
+* **What I am doing right now:** Transitioning into **AI Native Product Engineering**
 ---
 
 ### 🛠️ Technical Toolkit
@@ -19,7 +18,7 @@ I am a software developer with 3+ years of professional experience building scal
 | **Languages** | Python, JavaScript (React), SQL |
 | **Cloud & DevOps** | Google Cloud Platform (GCP), Backend APIs, System Design |
 | **AI & Data** | Machine Learning, Google Earth Engine, LLM Orchestration |
-| **Product** | ICP Validation, Roadmap Strategy, Market Analysis |
+| **Product / Consulting** | ICP Validation, Roadmap Strategy, Market Analysis |
 
 ---
 
