@@ -15,7 +15,7 @@ I am a software developer with 3+ years of professional experience building scal
 ### 🛠️ Technical Toolkit
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript (React), SQL |
+| **Languages** | Python, TypeScript, JavaScript, Java |
 | **Cloud & DevOps** | Google Cloud Platform (GCP), Backend APIs, System Design |
 | **AI & Data** | Machine Learning, Google Earth Engine, LLM Orchestration |
 | **Product / Consulting** | ICP Validation, Roadmap Strategy, Market Analysis |
