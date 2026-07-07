@@ -1,6 +1,6 @@
 # Hi there, I'm Ab 👋
 
-### Software Engineer turned Product Strategist | MSITM @ UT Austin
+### Software Engineer turned Product builder | MSITM @ UT Austin
 
 I am a software developer with 3+ years of professional experience building scalable systems, currently bridging the gap between technical engineering and product leadership. My focus is at the intersection of **Fintech**, **Artificial Intelligence**, and **Cloud Infrastructure**.
 
